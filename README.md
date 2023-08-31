@@ -1,8 +1,8 @@
 # Number Guessing App
 
-<img src="/blackjack-image.png" width="80%" height="80%"></img>
+<img src="/kid-guessing.png" width="80%" height="80%"></img>
 <br>
-Credit: <a href="https://crescent.edu/">Crescent School Gaming and Bartending</a>
+Credit: <a href="https://www.pngwing.com/en/free-png-zimaf">pngwing.com</a>
 <hr>
 
 <p>
