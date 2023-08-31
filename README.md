@@ -1,6 +1,6 @@
 # Number Guessing App
 
-<img src="/kid-guessing.png" width="80%" height="80%"></img>
+<img src="/woman-guessing.png" width="50%" height="50%"></img>
 <br>
 Credit: <a href="https://www.pngwing.com/en/free-png-zimaf">pngwing.com</a>
 <hr>
