@@ -31,6 +31,6 @@ Credit: <a href="https://www.pngwing.com/en/free-png-zimaf">pngwing.com</a>
 
 You can also run the code to play with it on Replit. <br>
 
-<a href="https://replit.com/@saverionegro/blackjack-app?v=1"><img src="/blackjack-app-replit.png" width="80%" height="80%"></a>
+<a href="https://replit.com/@saverionegro/blackjack-app?v=1"><img src="/number-guessing-app-replit.png" width="80%" height="80%"></a>
 <br>
-<a href="https://replit.com/@saverionegro/blackjack-app?v=1">Number Guessing App Replit</a>
+<a href="https://replit.com/@saverionegro/number-guessing-app?v=1">Number Guessing App Replit</a>
